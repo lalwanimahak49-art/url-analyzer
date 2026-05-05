@@ -26,7 +26,11 @@ How to Run
 1. Clone the repository  
 2. Open the project in IntelliJ IDEA  
 3. Run the main Java file  
-4. Enter a URL input when prompted  
+4. Enter a URL input when prompted
+
+Output Sample
+<img width="1094" height="723" alt="image" src="https://github.com/user-attachments/assets/d5f2483f-7e7e-4f7e-93b3-526d3dc6a21d" />
+
 
 Author
 Mahak Lalwani
